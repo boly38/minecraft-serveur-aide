@@ -21,7 +21,7 @@ Une fois sur ce mode de jeu la commande `/job` ou `/quest` vous permet de realis
  - `/largage` Evenement de largage
  - `/f help` Aide sur les commandes de faction
  - `/f power` Connaître la puissance de votre faction
- - `/f set home` Définir votre maison de faction
+ - `/f set home` Définir votre maison de faction        
   -`/f desc madescription` Définir la description de votre faction
  - `/f home` Se rendre à votre maison de faction
  - `/f claim` Réclamer un bout de terrain 16x16x16 pour votre faction
