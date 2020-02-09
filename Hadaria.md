@@ -33,5 +33,10 @@ Et la puissance diminue lorsque vous êtes absent ou que vous vous faîtes tuer.
  - `/f desc madescription` Définir la description de votre faction
  - `/f home` Se rendre à votre maison de faction
  - `/f claim` Réclamer un bout de terrain 16x16x16 pour votre faction
+ - `/f map` Voir les claims de votre faction
+ - `/f invite nomJoueur` Inviter à rejoindre la faction
+ - `/f promote nomJoueur` Promouvoir un membre de la faction
+ - `/f demote nomJoueur` Déclasser un joueur
+ - `/f perm` gérer les permissions en fonction du grade
  - `/t message` Pour discuter
  - `/upgrade` pour augmenter ton coffre de l'ender et ...
