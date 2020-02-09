@@ -1,17 +1,25 @@
 # Introduction
-Le mode Faction de Hadaria permet notamment de faire du farm2win.
+
+[Hadaria.fr](https://hadaria.fr/) propose de nombreux petits jeux (à décrire..).
+
+Le mode **Faction** de Hadaria permet notamment de faire du *farm2win*.
+
+## première fois
+
+Connexion et inscription
+- Ajoutez un serveur au mode multi-joueurs - adresse : `PLAY.HADARIA.FR`
+- Une fois connecté, enregistrez vous avec `/register` ou connectez vous avec `/login`
+
+Lorsque vous arrivez sur Hadaria (sur le `/spawn`) vous pouvez voir les jeux.
+ - vous pouvez choisir Factions. Une fois sur ce mode de jeu la commande `/job` ou `/quest` vous permet de realiser des objectifs.
+
+## description du mode Faction
 
 Une faction est une zone que vous détennez en petit groupe et que vous devrez défendre contre les autres factions.
 
 La notion de puissance (power) de faction augmente au fur et à mesure que vous jouez ou que vous grandissez. 
 Et la puissance diminue lorsque vous êtes absent ou que vous vous faîtes tuer.
 
-## première fois
-Lorsque vous arrivez sur Hadaria (sur le `/spawn`) vous pouvez voir les jeux.
- - vous pouvez choisir Factions.
-
-
-Une fois sur ce mode de jeu la commande `/job` ou `/quest` vous permet de realiser des objectifs.
 
 
 ## les commandes utiles
