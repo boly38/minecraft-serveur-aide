@@ -25,7 +25,7 @@ Et la puissance diminue lorsque vous êtes absent ou que vous vous faîtes tuer.
 ## les commandes utiles
 
  - `/tutoriel` Lieu où sont rappelée les commandes et possibilités du serveur
- - `/shop` Boutique, pour vendre.
+ - `/shop` Boutique, pour acheter/vendre.
  - `/largage` Evenement de largage
  - `/f help` Aide sur les commandes de faction
  - `/f power` Connaître la puissance de votre faction
@@ -39,4 +39,3 @@ Et la puissance diminue lorsque vous êtes absent ou que vous vous faîtes tuer.
  - `/f demote nomJoueur` Déclasser un joueur
  - `/f perm` gérer les permissions en fonction du grade
  - `/t message` Pour discuter
- - `/upgrade` pour augmenter ton coffre de l'ender et ...
