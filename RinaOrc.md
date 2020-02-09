@@ -1,8 +1,16 @@
 # Introduction
-Le mode skyblock de RinaOrc et permet de créer des îles (island).
+
+RinaOrc propose de nombreux petits jeux (PvP, Murder, BedWar, ..).
+
+Le mode **skyblock** de RinaOrc et permet de créer des îles (*island*).
 Une île est un petit monde tout en hauteur. vous démarrez avec simplement une petite plateforme et un arbre.
 
 ## première fois
+
+Connexion et inscription
+- Ajoutez un serveur au mode multi-joueurs - adresse : `PLAY.RINAORC.COM`
+- Une fois connecté, enregistrez vous avec `/register` ou connectez vous avec `/login`
+
 Lorsque vous arrivez sur RinaOrc (sur le `/hub`) vous pouvez choisir plusieurs modes de jeux.
  - choisir Skyblock pour faire votre île.
 
