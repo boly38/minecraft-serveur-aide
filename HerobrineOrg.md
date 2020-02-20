@@ -15,10 +15,11 @@ Lorsque vous arrivez sur Herobrine (sur le `/spawn`) vous pouvez voir les jeux.
  - vous pouvez choisir le mode Earth. 
  - vous n'avez pas de commande `/sethome`, il vous faudra soit fonder, soit rejoindre une ville.
 
-## description du mode Earch
+## description du mode Earth
 
 Fonder une ville coûte 2000$. 
-(à faire)
+
+Vous devrez [voter](https://help.herobrine.org/) pour le serveur (4 votes par jour) et chaque vote vous permet d'obtenir une mission (papier dans votre inventaire. Terminer une mission rapporte 200$ (à confirmer au fil du temps)
 
 
 ## les commandes utiles
