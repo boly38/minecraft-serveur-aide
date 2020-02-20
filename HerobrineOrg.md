@@ -13,7 +13,7 @@ Connexion et inscription
 
 Lorsque vous arrivez sur Herobrine (sur le `/spawn`) vous pouvez voir les jeux.
  - vous pouvez choisir le mode Earth. 
- - Vous n'avez pas de `sethome`il vous faudra fonder(2000$) ou rejoindre une ville.
+ - Vous n'avez pas de commande `/sethome`, il vous faudra soit fonder (coût: 2000$), soit rejoindre une ville.
 
 ## description du mode Earch
 
@@ -24,3 +24,6 @@ Lorsque vous arrivez sur Herobrine (sur le `/spawn`) vous pouvez voir les jeux.
 
  - `/balance` Combien j'ai d'argent ?
  
+
+## aller plus loin
+- bunch des commandes liées au plugin twon : [eclipselabs.org/p/towny](https://code.google.com/archive/a/eclipselabs.org/p/towny/wikis/Commands.wiki)
