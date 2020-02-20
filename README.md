@@ -5,7 +5,7 @@ Ce projet comporte les aides pour serveurs Minecrafts:
 - [RinaOrc](RinaOrc.md) (fr)
 - [Hadaria](Hadaria.md) (fr)
 - [PixWorld](PixWorld.md)
-- [Herobrine.org](HebrineOrg.md)
+- [Herobrine.org](HerobrineOrg.md)
 
 # comment démarrer ?
 
