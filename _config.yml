@@ -9,3 +9,5 @@ include:
   - HerobrineOrg.md
   - PixWorld.md
   - RinaOrc.md
+
+theme: jekyll-theme-leap-day
