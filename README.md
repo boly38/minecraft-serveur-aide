@@ -1,13 +1,15 @@
 # minecraft-serveur-aide
 
-Ce projet comporte les aides pour serveurs Minecrafts (français)
+Ce projet comporte les aides pour serveurs Minecrafts:
 
-- [RinaOrc](RinaOrc.md)
-- [Hadaria](Hadaria.md)
+- [RinaOrc](RinaOrc.md) (fr)
+- [Hadaria](Hadaria.md) (fr)
+- [PixWorld](PixWorld.md)
+- [Herobrine.org](HebrineOrg.md)
 
 # comment démarrer ?
 
-- téléchargez votre launcher Minecraft préféré (ex. [Pactify](https://www.pactify-launcher.nz/fr/)
+- téléchargez votre launcher Minecraft préféré (ex. [Pactify](https://www.pactify-launcher.nz/fr/))
 - une fois lancé, choisissez le mode multi-joueurs et entrez l'adresse du serveur.
 - rendez-vous sur la page d'un serveur pour la suite.
 
