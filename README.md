@@ -7,6 +7,7 @@ Ce projet comporte les aides pour serveurs Minecrafts:
 - [PixWorld](PixWorld.md)
 - [Herobrine.org](HerobrineOrg.md)
 
+
 # comment démarrer ?
 
 - téléchargez votre launcher Minecraft préféré (ex. [Pactify](https://www.pactify-launcher.nz/fr/))
@@ -14,5 +15,10 @@ Ce projet comporte les aides pour serveurs Minecrafts:
 - rendez-vous sur la page d'un serveur pour la suite.
 
 # contributions
+
+Ce projet est publié à l'adresse suivante : https://boly38.github.io/minecraft-serveur-aide/
+
+Vous pouvez voir le code à l'adresse suivante : https://github.com/boly38/minecraft-serveur-aide/
+
 - pour compléter ou rajouter votre aide sur un nouveau serveur, éditez le dépot et soumettez une [pull request](https://docs.joomla.org/Using_the_Github_UI_to_Make_Pull_Requests/fr)
 - pour suggérer une évolution ou signaler un problème si vous ne savez pas faire de pull request, créez un ticket ([issue](https://github.com/boly38/minecraft-serveur-aide/issues))
