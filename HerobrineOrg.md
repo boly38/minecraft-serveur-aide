@@ -2,7 +2,7 @@
 
 [Herobrine.org](http://help.herobrine.org/) (en anglais) propose les modes suivant : Earth, (completer) ...
 
-Le mode **Earth** de Herobrine.org permet notamment de faire des villes (plugin *town*). 
+Le mode **Earth** de Herobrine.org permet notamment de faire des villes (plugin *towny*). 
 Il permet aux joueurs d'évoluer sur une carte qui ressemble à la note : [earth.herobrine.org](https://earth.herobrine.org)
 
 ## première fois
@@ -13,10 +13,11 @@ Connexion et inscription
 
 Lorsque vous arrivez sur Herobrine (sur le `/spawn`) vous pouvez voir les jeux.
  - vous pouvez choisir le mode Earth. 
- - Vous n'avez pas de commande `/sethome`, il vous faudra soit fonder (coût: 2000$), soit rejoindre une ville.
+ - vous n'avez pas de commande `/sethome`, il vous faudra soit fonder, soit rejoindre une ville.
 
 ## description du mode Earch
 
+Fonder une ville coûte 2000$. 
 (à faire)
 
 
@@ -26,4 +27,7 @@ Lorsque vous arrivez sur Herobrine (sur le `/spawn`) vous pouvez voir les jeux.
  
 
 ## aller plus loin
-- bunch des commandes liées au plugin twon : [eclipselabs.org/p/towny](https://code.google.com/archive/a/eclipselabs.org/p/towny/wikis/Commands.wiki)
+
+### plugin towny
+- utilisation du plugin towny [induste.com/threads](https://induste.com/threads/utilisation-du-plugin-towny.552786/) (français)
+- bunch de commandes liées au plugin ton : [eclipselabs.org/p/towny](https://code.google.com/archive/a/eclipselabs.org/p/towny/wikis/Commands.wiki) (anglais)
