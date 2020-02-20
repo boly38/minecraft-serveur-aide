@@ -10,4 +10,4 @@ include:
   - PixWorld.md
   - RinaOrc.md
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
