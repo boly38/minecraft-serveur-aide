@@ -11,12 +11,16 @@ Connexion et inscription
 - Ajoutez un serveur au mode multi-joueurs - adresse : `HEROBRINE.ORG`
 - Une fois connecté, enregistrez vous avec `/register` ou connectez vous avec `/login`
 
-Lorsque vous arrivez sur Herobrine vous pouvez voir les jeux.
- - vous pouvez choisir le mode Earth. 
- - vous n'avez pas de commande `/sethome`, il vous faudra soit fonder, soit rejoindre une ville.
+Lorsque vous arrivez sur Herobrine (`/hub`) vous pouvez voir les jeux
+ - vous pouvez choisir le mode **Earth**. 
+
+Vous pouvez récupérer une récompense (cosmetic).
 
 ## description du mode Earth
 
+Vous n'avez pas de commande `/sethome`, il vous faudra soit fonder, soit rejoindre une ville.
+Quand vous mourrez, pous perdez votre stuff et vous vous retrouver au `/hub`. Réentrer en earth vous téléportera aléatoirement sur la carte.
+ 
 Fonder une ville coûte `2000$`. 
 
 Vous devrez [voter](https://help.herobrine.org/) pour le serveur (4 votes par jour) 
@@ -28,7 +32,19 @@ Terminer une mission vous rapporte `200$`.
 ## les commandes utiles
 
  - `/balance` Combien j'ai d'argent ?
- 
+ - `/n ?` aide sur la gestion de nation
+ - `/t ?` aide sur la gestion de ville
+ - `/town new <nom_de_Ma_Ville>` créer une ville (coût : 2000)
+ - `/town claim` ajouter un block à sa ville (coût : 200)
+ - `/town set name <nom_de_Ma_Ville>` renommer une ville (coût : 2000)
+
+## Avantages/Inconvénients
+- (+) gratuit
+- (+) accès possible pour les comptes crackés
+- (+) les mobs sont pas très méchants, la TNT ne détruit pas les blocs, a priorio on peut construire son monde plutôt paisiblement
+- (-) sur discord on obtiens pas forcément de réponse à ses questions :p
+
+
 
 ## aller plus loin
 
