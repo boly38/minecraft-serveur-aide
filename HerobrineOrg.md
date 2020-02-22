@@ -19,7 +19,7 @@ Vous pouvez récupérer une récompense (cosmetic).
 ## description du mode Earth
 
 Vous n'avez pas de commande `/sethome`, il vous faudra soit fonder, soit rejoindre une ville.
-Quand vous mourrez, pous perdez votre stuff et vous vous retrouver au `/hub`. Réentrer en earth vous téléportera aléatoirement sur la carte.
+Quand vous mourrez, pous perdrez votre stuff car vous vous retrouverez léatoirement sur la carte.
  
 Fonder une ville coûte `2000$`. 
 
