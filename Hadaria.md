@@ -25,6 +25,8 @@ Et la puissance diminue lorsque vous êtes absent ou que vous vous faîtes tuer.
 
 
 ### Avantages/Inconvénients
+- (+) gratuit
+- (+) accès possible pour les clients crackés
 - (-) difficile de conserver une faction : faire une base sans se faire piller/tnt'iser
 
 ## les commandes utiles
