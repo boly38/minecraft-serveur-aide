@@ -31,12 +31,19 @@ Terminer une mission vous rapporte `200$`.
 
 ## les commandes utiles
 
- - `/balance` Combien j'ai d'argent ?
+ - `/bal` ou `/balance` Combien ai-je d'argent ?
  - `/n ?` aide sur la gestion de nation
- - `/t ?` aide sur la gestion de ville
- - `/town new <nom_de_Ma_Ville>` créer une ville (coût : 2000)
- - `/town claim` ajouter un block à sa ville (coût : 200)
- - `/town set name <nom_de_Ma_Ville>` renommer une ville (coût : 2000)
+ - `/t ?` aide sur la gestion de ville. 
+ `/t` est pareil que`/town`
+ - `/t` informations sur la ville
+ - `/t new <nom_de_Ma_Ville>` créer une ville (coût : 2000)
+ - `/t claim` ajouter un block à sa ville (coût : 200)
+ - `/t set name <nom_de_Ma_Ville>` renommer une ville (coût : 2000 à confirmer)
+ - `/t deposit 123` déposer 123 de mon compte vers la banque de la ville
+ - `/plot set Farm` appliquer le type ferme à un bloc
+ - `/plot set name Jardin Suspendu` appliquer le nom 'JardinSuspendu' au bloc
+
+
 
 ## Avantages/Inconvénients
 - (+) gratuit
