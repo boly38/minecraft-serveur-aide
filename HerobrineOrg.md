@@ -58,3 +58,6 @@ Terminer une mission vous rapporte `200$`.
 ### plugin towny
 - utilisation du plugin towny [induste.com/threads](https://induste.com/threads/utilisation-du-plugin-towny.552786/) (français)
 - bunch de commandes liées au plugin ton : [eclipselabs.org/p/towny](https://code.google.com/archive/a/eclipselabs.org/p/towny/wikis/Commands.wiki) (anglais)
+
+### plugin lwc
+- https://dev.bukkit.org/projects/lwc
